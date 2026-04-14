@@ -1,0 +1,2 @@
+# earth_eccentricity_simulation
+地球の公転の角度から地球の離心率を求める
