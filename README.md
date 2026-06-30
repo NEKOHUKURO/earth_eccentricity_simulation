@@ -68,7 +68,3 @@ Notebookでは以下を行います。
 - SymPyによる解析微分
 - SciPyによるパラメータフィッティング
 - Plotlyによる結果の可視化
-
-## License
-
-MIT License
